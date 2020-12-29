@@ -3,4 +3,5 @@
 *.sass.map
 *.scss.map
 
-.Anvilon.code-workspace
+.Workspace
+*.code-workspace
